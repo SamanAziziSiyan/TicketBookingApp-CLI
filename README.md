@@ -1,4 +1,6 @@
 # Booking-app
 
-## A simple Booking app using CLI 
+## A simple ticket Booking app using CLI 
+
+### my first app in Golang
 
